@@ -17,9 +17,10 @@ node_modules/
 # Database
 *.db
 
-# IDE
+# IDE / tools
 .vscode/
 .idea/
+.claude/
 
 # Excel temp files
 ~$*
