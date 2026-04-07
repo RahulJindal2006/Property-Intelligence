@@ -1,0 +1,8 @@
+Timestamp,Question,What_Went_Wrong,Severity
+2026-03-11 23:24:02,What is the number of people that are not living in any units,Testing,Medium
+2026-03-11 23:36:44,How many units are currently vacant,Hey this is incorrect,High
+2026-03-12 11:05:27,How many vacant units do we have?,test,Low
+2026-03-13 14:02:15,How many vacant units do we have?,Testing - LOW,Low
+2026-03-13 14:02:20,How many vacant units do we have?,Testing - HIGH,High
+2026-03-13 14:02:23,How many vacant units do we have?,Testing - MEDUM,Medium
+2026-03-13 14:09:39,How many vacant units do we have?,Test,Low

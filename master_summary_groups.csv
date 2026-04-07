@@ -1,0 +1,126 @@
+Resident_Type,Sq_Ft,Market_Rent,Lease_Charges,Security_Deposit,Other_Deposits,Num_Units,Pct_Unit_Occupancy,Pct_Sqft_Occupied,Balance,Property_ID,Property_Name,Report_Date
+Current/Notice/Vacant Residents,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,134c,55 Riverwalk Place,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,134c,55 Riverwalk Place,02/25/2026
+Occupied Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,134c,55 Riverwalk Place,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,134c,55 Riverwalk Place,02/25/2026
+Total Vacant Units,0.0,0.0,0.0,0.0,0.0,3,100.0,0.0,0.0,134c,55 Riverwalk Place,02/25/2026
+Current/Notice/Vacant Residents,60000.0,132806.0,0.0,97094.5,0.0,67,94.02,94.5,-1500.0,185r,Waterfront at the Strand,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,185r,Waterfront at the Strand,02/25/2026
+Occupied Units,56700.0,125290.0,0.0,0.0,0.0,63,94.02,94.5,0.0,185r,Waterfront at the Strand,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,185r,Waterfront at the Strand,02/25/2026
+Total Vacant Units,3300.0,7516.0,0.0,0.0,0.0,4,5.97,5.5,0.0,185r,Waterfront at the Strand,02/25/2026
+Current/Notice/Vacant Residents,287190.0,1108579.0,1034844.53,475945.0,2500.0,284,96.47,96.51,63756.69,126r,The Halden,02/25/2026
+Future Residents/Applicants,5612.0,21755.0,0.0,11713.0,0.0,5,0.0,0.0,-10213.0,126r,The Halden,02/25/2026
+Occupied Units,277177.0,1069255.0,0.0,0.0,0.0,274,96.47,96.51,0.0,126r,The Halden,02/25/2026
+Total Non Rev Units,808.0,3289.0,0.0,0.0,0.0,1,0.35,0.29,0.0,126r,The Halden,02/25/2026
+Total Vacant Units,9205.0,36035.0,0.0,0.0,0.0,9,3.16,3.21,0.0,126r,The Halden,02/25/2026
+Current/Notice/Vacant Residents,109897.0,235333.0,0.0,134457.0,0.0,118,95.76,94.92,0.0,183r,Luckey Platt,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,183r,Luckey Platt,02/25/2026
+Occupied Units,104322.0,224358.0,0.0,0.0,0.0,113,95.76,94.92,0.0,183r,Luckey Platt,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,183r,Luckey Platt,02/25/2026
+Total Vacant Units,5575.0,10975.0,0.0,0.0,0.0,5,4.23,5.07,0.0,183r,Luckey Platt,02/25/2026
+Current/Notice/Vacant Residents,0.0,0.0,3476.0,0.0,0.0,7,14.28,0.0,0.0,153c,Abbot Mill,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,153c,Abbot Mill,02/25/2026
+Occupied Units,0.0,0.0,0.0,0.0,0.0,1,14.28,0.0,0.0,153c,Abbot Mill,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,153c,Abbot Mill,02/25/2026
+Total Vacant Units,0.0,0.0,0.0,0.0,0.0,6,85.71,0.0,0.0,153c,Abbot Mill,02/25/2026
+Current/Notice/Vacant Residents,50709.0,86114.0,94756.9,64765.0,0.0,63,100.0,100.0,84718.94,138a,Everbend Tarrytown,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,138a,Everbend Tarrytown,02/25/2026
+Occupied Units,50709.0,86114.0,0.0,0.0,0.0,63,100.0,100.0,0.0,138a,Everbend Tarrytown,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,138a,Everbend Tarrytown,02/25/2026
+Total Vacant Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,138a,Everbend Tarrytown,02/25/2026
+Current/Notice/Vacant Residents,82781.0,537740.0,421627.77,330009.64,0.0,71,91.54,92.89,-3140.62,139r,The Mill Greenwich,02/25/2026
+Future Residents/Applicants,2871.0,17002.0,0.0,4380.0,0.0,3,0.0,0.0,-4346.0,139r,The Mill Greenwich,02/25/2026
+Occupied Units,76898.0,501230.0,0.0,0.0,0.0,65,91.54,92.89,0.0,139r,The Mill Greenwich,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,139r,The Mill Greenwich,02/25/2026
+Total Vacant Units,5883.0,36510.0,0.0,0.0,0.0,6,8.45,7.1,0.0,139r,The Mill Greenwich,02/25/2026
+Current/Notice/Vacant Residents,15365.0,32936.0,35387.0,8435.0,0.0,19,94.73,93.61,6741.15,126a,The Halden,02/25/2026
+Future Residents/Applicants,981.0,1814.0,0.0,2044.0,0.0,1,0.0,0.0,500.0,126a,The Halden,02/25/2026
+Occupied Units,14384.0,31122.0,0.0,0.0,0.0,18,94.73,93.61,0.0,126a,The Halden,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,126a,The Halden,02/25/2026
+Total Vacant Units,981.0,1814.0,0.0,0.0,0.0,1,5.26,6.38,0.0,126a,The Halden,02/25/2026
+Current/Notice/Vacant Residents,145758.0,287288.0,0.0,184067.5,0.0,152,92.1,91.77,-1581.0,184r,Lakeshore Preserve,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,184r,Lakeshore Preserve,02/25/2026
+Occupied Units,133763.0,263931.0,0.0,0.0,0.0,140,92.1,91.77,0.0,184r,Lakeshore Preserve,02/25/2026
+Total Non Rev Units,7753.0,14949.0,0.0,0.0,0.0,8,5.26,5.47,0.0,184r,Lakeshore Preserve,02/25/2026
+Total Vacant Units,4242.0,8408.0,0.0,0.0,0.0,4,2.63,3.07,0.0,184r,Lakeshore Preserve,02/25/2026
+Current/Notice/Vacant Residents,825052.0,1722576.0,1636735.63,677004.0,0.0,775,97.93,97.94,-74780.87,144r,Winners Circle,02/25/2026
+Future Residents/Applicants,34527.0,72888.0,0.0,2133.0,0.0,32,0.0,0.0,-5408.94,144r,Winners Circle,02/25/2026
+Occupied Units,808138.0,1686289.0,0.0,0.0,0.0,759,97.93,97.94,0.0,144r,Winners Circle,02/25/2026
+Total Non Rev Units,1216.0,2358.0,0.0,0.0,0.0,1,0.12,0.15,0.0,144r,Winners Circle,02/25/2026
+Total Vacant Units,15698.0,33929.0,0.0,0.0,0.0,15,1.93,1.9,0.0,144r,Winners Circle,02/25/2026
+Current/Notice/Vacant Residents,203505.0,739550.0,675043.47,408721.63,0.0,235,94.04,94.31,147037.76,138r,Everbend Tarrytown,02/25/2026
+Future Residents/Applicants,4972.0,18752.0,0.0,6256.71,0.0,6,0.0,0.0,3409.64,138r,Everbend Tarrytown,02/25/2026
+Occupied Units,191931.0,696452.0,0.0,0.0,0.0,221,94.04,94.31,0.0,138r,Everbend Tarrytown,02/25/2026
+Total Non Rev Units,658.0,2701.0,0.0,0.0,0.0,1,0.42,0.34,0.0,138r,Everbend Tarrytown,02/25/2026
+Total Vacant Units,10916.0,40397.0,0.0,0.0,0.0,13,5.53,5.38,0.0,138r,Everbend Tarrytown,02/25/2026
+Current/Notice/Vacant Residents,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,134land,55 Riverwalk Place,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,134land,55 Riverwalk Place,02/25/2026
+Occupied Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,134land,55 Riverwalk Place,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,134land,55 Riverwalk Place,02/25/2026
+Total Vacant Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,134land,55 Riverwalk Place,02/25/2026
+Current/Notice/Vacant Residents,292040.0,572421.0,568612.77,106297.0,0.0,312,95.51,95.35,-21147.08,143a,The Ellsworth,02/25/2026
+Future Residents/Applicants,6401.0,12261.0,0.0,0.0,0.0,7,0.0,0.0,0.0,143a,The Ellsworth,02/25/2026
+Occupied Units,278477.0,546238.0,0.0,0.0,0.0,298,95.51,95.35,0.0,143a,The Ellsworth,02/25/2026
+Total Non Rev Units,1014.0,1574.0,0.0,0.0,0.0,1,0.32,0.36,0.0,143a,The Ellsworth,02/25/2026
+Total Vacant Units,12549.0,24609.0,0.0,0.0,0.0,13,4.16,4.31,0.0,143a,The Ellsworth,02/25/2026
+Current/Notice/Vacant Residents,21781.0,54281.0,0.0,41972.0,0.0,30,93.33,94.12,0.0,183a,Luckey Platt,02/25/2026
+Future Residents/Applicants,1280.0,3437.0,0.0,0.0,0.0,2,0.0,0.0,0.0,183a,Luckey Platt,02/25/2026
+Occupied Units,20501.0,50844.0,0.0,0.0,0.0,28,93.33,94.12,0.0,183a,Luckey Platt,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,183a,Luckey Platt,02/25/2026
+Total Vacant Units,1280.0,3437.0,0.0,0.0,0.0,2,6.66,5.87,0.0,183a,Luckey Platt,02/25/2026
+Current/Notice/Vacant Residents,318592.0,1212256.0,1180076.57,437771.0,0.0,348,95.68,95.72,-94467.53,134r,55 Riverwalk Place,02/25/2026
+Future Residents/Applicants,11162.0,42853.0,0.0,3000.0,0.0,11,0.0,0.0,-17060.0,134r,55 Riverwalk Place,02/25/2026
+Occupied Units,304979.0,1158195.0,0.0,0.0,0.0,333,95.68,95.72,0.0,134r,55 Riverwalk Place,02/25/2026
+Total Non Rev Units,780.0,3339.0,0.0,0.0,0.0,1,0.28,0.25,0.0,134r,55 Riverwalk Place,02/25/2026
+Total Vacant Units,12833.0,50722.0,0.0,0.0,0.0,14,4.02,4.03,0.0,134r,55 Riverwalk Place,02/25/2026
+Current/Notice/Vacant Residents,500423.0,819064.0,4144.0,330224.32,0.0,390,96.15,96.27,63397.08,175r,Kinwood Apartments,02/25/2026
+Future Residents/Applicants,2748.0,4142.0,0.0,0.0,0.0,2,0.0,0.0,0.0,175r,Kinwood Apartments,02/25/2026
+Occupied Units,481772.0,787568.0,0.0,0.0,0.0,375,96.15,96.27,0.0,175r,Kinwood Apartments,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,175r,Kinwood Apartments,02/25/2026
+Total Vacant Units,18651.0,31496.0,0.0,0.0,0.0,15,3.84,3.72,0.0,175r,Kinwood Apartments,02/25/2026
+Current/Notice/Vacant Residents,0.0,0.0,95074.07,242521.12,0.0,10,100.0,0.0,256589.04,139c,The Mill Greenwich,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,139c,The Mill Greenwich,02/25/2026
+Occupied Units,0.0,0.0,0.0,0.0,0.0,10,100.0,0.0,0.0,139c,The Mill Greenwich,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,139c,The Mill Greenwich,02/25/2026
+Total Vacant Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,139c,The Mill Greenwich,02/25/2026
+Current/Notice/Vacant Residents,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,183c,Luckey Platt,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,183c,Luckey Platt,02/25/2026
+Occupied Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,183c,Luckey Platt,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,183c,Luckey Platt,02/25/2026
+Total Vacant Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,183c,Luckey Platt,02/25/2026
+Current/Notice/Vacant Residents,0.0,0.0,57918.14,0.0,0.0,29,51.72,0.0,28615.51,143c,The Ellsworth,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,143c,The Ellsworth,02/25/2026
+Occupied Units,0.0,0.0,0.0,0.0,0.0,15,51.72,0.0,0.0,143c,The Ellsworth,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,143c,The Ellsworth,02/25/2026
+Total Vacant Units,0.0,0.0,0.0,0.0,0.0,14,48.27,0.0,0.0,143c,The Ellsworth,02/25/2026
+Current/Notice/Vacant Residents,262757.0,684747.0,515321.39,180789.03,0.0,211,92.89,92.88,21723.91,153r,Abbot Mill,02/25/2026
+Future Residents/Applicants,5728.0,14755.0,0.0,0.0,0.0,5,0.0,0.0,0.0,153r,Abbot Mill,02/25/2026
+Occupied Units,244053.0,634512.0,0.0,0.0,0.0,196,92.89,92.88,0.0,153r,Abbot Mill,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,153r,Abbot Mill,02/25/2026
+Total Vacant Units,18704.0,50235.0,0.0,0.0,0.0,15,7.1,7.11,0.0,153r,Abbot Mill,02/25/2026
+Current/Notice/Vacant Residents,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,altapm,AltaPM,02/25/2026
+Future Residents/Applicants,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,altapm,AltaPM,02/25/2026
+Occupied Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,altapm,AltaPM,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,altapm,AltaPM,02/25/2026
+Total Vacant Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,altapm,AltaPM,02/25/2026
+Current/Notice/Vacant Residents,22639.0,63954.0,29587.0,14982.0,0.0,23,82.6,83.02,9475.72,153a,Abbot Mill,02/25/2026
+Future Residents/Applicants,1580.0,5253.0,0.0,0.0,0.0,2,0.0,0.0,0.0,153a,Abbot Mill,02/25/2026
+Occupied Units,18797.0,52860.0,0.0,0.0,0.0,19,82.6,83.02,0.0,153a,Abbot Mill,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,153a,Abbot Mill,02/25/2026
+Total Vacant Units,3842.0,11094.0,0.0,0.0,0.0,4,17.39,16.97,0.0,153a,Abbot Mill,02/25/2026
+Current/Notice/Vacant Residents,236667.0,417895.5,415606.08,354662.5,0.0,266,95.11,95.14,193046.5,462a,Stony Run,02/25/2026
+Future Residents/Applicants,2648.0,4914.0,0.0,2160.0,0.0,3,0.0,0.0,-5716.6,462a,Stony Run,02/25/2026
+Occupied Units,225174.0,395712.5,0.0,0.0,0.0,253,95.11,95.14,0.0,462a,Stony Run,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,462a,Stony Run,02/25/2026
+Total Vacant Units,11493.0,22183.0,0.0,0.0,0.0,13,4.88,4.85,0.0,462a,Stony Run,02/25/2026
+Current/Notice/Vacant Residents,268812.0,614034.0,0.0,341033.0,0.0,300,97.33,97.0,36197.11,176r,The Alexander,02/25/2026
+Future Residents/Applicants,4264.0,9058.0,0.0,0.0,0.0,4,0.0,0.0,0.0,176r,The Alexander,02/25/2026
+Occupied Units,260749.0,596327.0,0.0,0.0,0.0,292,97.33,97.0,0.0,176r,The Alexander,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,176r,The Alexander,02/25/2026
+Total Vacant Units,8063.0,17707.0,0.0,0.0,0.0,8,2.66,2.99,0.0,176r,The Alexander,02/25/2026
+Current/Notice/Vacant Residents,260778.0,763814.0,791650.93,706158.25,0.0,300,96.0,95.74,-35465.66,115r,Canfield Park,02/25/2026
+Future Residents/Applicants,8202.0,23961.0,0.0,18550.0,0.0,9,0.0,0.0,-19032.0,115r,Canfield Park,02/25/2026
+Occupied Units,249692.0,731492.0,0.0,0.0,0.0,288,96.0,95.74,0.0,115r,Canfield Park,02/25/2026
+Total Non Rev Units,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,115r,Canfield Park,02/25/2026
+Total Vacant Units,11086.0,32322.0,0.0,0.0,0.0,12,4.0,4.25,0.0,115r,Canfield Park,02/25/2026

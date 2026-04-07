@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+openai
+pyyaml
+pandas
+pillow
+pathlib
+plotly

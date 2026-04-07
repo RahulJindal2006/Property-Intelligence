@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-openai
+langchain-community
+pydantic
+pydantic-settings
+pandas
+pyyaml
+python-dotenv
