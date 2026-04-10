@@ -8,7 +8,7 @@ A full-stack AI platform that transforms raw Excel rent roll files into a struct
 ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite)
 ![LangChain](https://img.shields.io/badge/LangChain-Enabled-1C3C3C)
 
-## Overview
+## Overview 
 
 In a previous software engineering role, I was regularly handed raw Excel rent roll files and tasked with extracting data, building structured databases, generating reports, and creating AI-powered SQL chatbots. This project recreates that entire end-to-end workflow from scratch.
 
